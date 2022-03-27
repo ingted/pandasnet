@@ -10,9 +10,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Reference Include="Python.Runtime">
-      <HintPath>..\..\venv\Lib\site-packages\pythonnet\runtime\Python.Runtime.dll</HintPath>
-    </Reference>
+    <ProjectReference Include="..\..\..\pythonnet\src\runtime\Python.Runtime.csproj" />
   </ItemGroup>
 
 </Project>
