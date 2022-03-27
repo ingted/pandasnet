@@ -1,0 +1,13 @@
+C:\git\pandasnet\dotnet\PandasNet\obj\Debug\netstandard2.0\PandasNet.csproj.AssemblyReference.cache
+C:\git\pandasnet\dotnet\PandasNet\obj\Debug\netstandard2.0\PandasNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\pandasnet\dotnet\PandasNet\obj\Debug\netstandard2.0\PandasNet.AssemblyInfoInputs.cache
+C:\git\pandasnet\dotnet\PandasNet\obj\Debug\netstandard2.0\PandasNet.AssemblyInfo.cs
+C:\git\pandasnet\dotnet\PandasNet\obj\Debug\netstandard2.0\PandasNet.csproj.CoreCompileInputs.cache
+C:\git\pandasnet\dotnet\PandasNet\bin\Debug\netstandard2.0\PandasNet.deps.json
+C:\git\pandasnet\dotnet\PandasNet\bin\Debug\netstandard2.0\PandasNet.dll
+C:\git\pandasnet\dotnet\PandasNet\bin\Debug\netstandard2.0\PandasNet.pdb
+C:\git\pandasnet\dotnet\PandasNet\bin\Debug\netstandard2.0\Python.Runtime.dll
+C:\git\pandasnet\dotnet\PandasNet\bin\Debug\netstandard2.0\Python.Runtime.pdb
+C:\git\pandasnet\dotnet\PandasNet\obj\Debug\netstandard2.0\PandasNet.csproj.CopyComplete
+C:\git\pandasnet\dotnet\PandasNet\obj\Debug\netstandard2.0\PandasNet.dll
+C:\git\pandasnet\dotnet\PandasNet\obj\Debug\netstandard2.0\PandasNet.pdb
